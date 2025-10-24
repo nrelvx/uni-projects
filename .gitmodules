@@ -13,18 +13,3 @@
 [submodule "python/lb5_TA"]
 	path = python/lb5_TA
 	url = https://github.com/nrelvx/lb5_TA.git
-[submodule "c++/lb1_OOP"]
-	path = cpp/lb1_OOP
-	url = https://github.com/nrelvx/lb1_OOP.git
-[submodule "c++/lb2_OOP"]
-	path = cpp/lb2_OOP
-	url = https://github.com/nrelvx/lb2_OOP.git
-[submodule "c++/lb3_OOP"]
-	path = cpp/lb3_OOP
-	url = https://github.com/nrelvx/lb3_OOP.git
-[submodule "c++/lb4_OOP"]
-	path = cpp/lb4_OOP
-	url = https://github.com/nrelvx/lb4_OOP.git
-[submodule "c++/lb5_OOP"]
-	path = cpp/lb5_OOP
-	url = https://github.com/nrelvx/lb5_OOP.git
